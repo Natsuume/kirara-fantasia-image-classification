@@ -1,1 +1,1 @@
-# kirara-fantasia
+# kirara-fantasia-image-classification
